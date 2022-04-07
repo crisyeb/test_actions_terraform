@@ -15,3 +15,4 @@ jobs:
         with:
           directory: .
           framework: terraform
+          output_format: sarif
